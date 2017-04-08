@@ -9,3 +9,8 @@ The application fetches the data in json format: https://www.reddit.com/top/.jso
  2. MVP
  3. Pagination (10 items per page) 
  4. Portrait and Landscape support with data persistence during the state change
+
+**Steps to test:**
+ - Clone the project in Android Studio
+ - Import dependencies by Gradle Script
+ - Compile and run
